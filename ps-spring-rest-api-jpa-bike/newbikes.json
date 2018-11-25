@@ -1,0 +1,36 @@
+[{
+	"name": "StreetCat1990",
+	"model": "BSA",
+	"serialNumber": "BSA1001",
+	"purchaseDate": "09-23-1990",
+	"purchasePrice": 1200.50,
+	"contact": true,
+	"email": "rcban@tech.com"
+},
+{
+	"name": "BSA SLR 1990",
+	"model": "BSA",
+	"serialNumber": "BSA1004",
+	"purchaseDate": "09-23-1990",
+	"purchasePrice": 1100.50,
+	"contact": false,
+	"email": "rcban@tech.com"
+},
+{
+	"name": "RoaylBig",
+	"model": "BSA",
+	"serialNumber": "BSA1001",
+	"purchaseDate": "09-23-1989",
+	"purchasePrice": 600.50,
+	"contact": true,
+	"email": "bangaru@tech.com"
+},
+{
+	"name": "StreetCat1990",
+	"model": "BSA",
+	"serialNumber": "BSA1001",
+	"purchaseDate": "09-23-1990",
+	"purchasePrice": 1200.50,
+	"contact": true,
+	"email": "rcban@tech.com"
+}]
